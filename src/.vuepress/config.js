@@ -53,7 +53,11 @@ module.exports = {
       },
       {
         text: 'Use cases',
-        link: 'use-cases/'
+        link: '/use-cases/'
+      },
+      {
+        text: 'Environments',
+        link: '/environments/'
       }
     ],
     sidebar: {
@@ -79,6 +83,18 @@ module.exports = {
             'contact/',
             'access/',
             'azure-ml/'
+          ]
+        }
+      ],
+      '/environments/': [
+        {
+          title: 'Environments',
+          collapsable: false,
+          sidebarDepth: 2,
+          children: [
+            '',
+            'geo-operation-center',
+            'subsurface-analytics'
           ]
         }
       ],
