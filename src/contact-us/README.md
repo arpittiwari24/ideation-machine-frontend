@@ -13,5 +13,5 @@ Semere Tsehaye Ghebregiorgish (Bouvet ASA) (semg@equinor.com)
 Frank Nærland (Bouvet ASA) (fnarl@equinor.com)
 
 
-##### Public slack channel
+#### Public slack channel
 [#ideation-machine](https://equinor.slack.com/archives/C01U9DLUXFZ)

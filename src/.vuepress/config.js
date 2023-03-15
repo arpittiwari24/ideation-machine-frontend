@@ -108,12 +108,11 @@ module.exports = {
       ],
       '/contact-us/': [
         {
-          title: '',
+          title: ' ',
           collapsable: false,
-          sidebarDepth: 2,
+          sidebarDepth: 1,
           children: [
-            '',
-            'contact-us',
+            ''
           ]
         }
       ],
