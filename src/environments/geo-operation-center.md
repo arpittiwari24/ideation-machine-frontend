@@ -6,3 +6,5 @@
 ### Contact information
 
 Slack channel: [#ideation-machine-goc](https://equinor.slack.com/archives/C045CKSRSHH)
+
+<SlackNote/>

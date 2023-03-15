@@ -48,8 +48,8 @@ module.exports = {
         link: ''
       },
       {
-        text: 'Contact us',
-        link: ''
+        text: 'Environments',
+        link: '/environments/'
       },
       {
         text: 'Use cases',
@@ -83,7 +83,10 @@ module.exports = {
           children: [
             '',
             'geo-operation-center',
-            'subsurface-analytics'
+            'subsurface-analytics',
+            'tdi-og',
+            'epi-brazil',
+            'gulf-of-mexico'
           ]
         }
       ],
