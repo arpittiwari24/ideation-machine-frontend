@@ -56,22 +56,11 @@ module.exports = {
         link: '/use-cases/'
       },
       {
-        text: 'Environments',
-        link: '/environments/'
-      }
+        text: 'Contact us',
+        link: '/contact-us/'
+      },
     ],
     sidebar: {
-      '/guide/': [
-        {
-          title: 'Guide',
-          collapsable: false,
-          sidebarDepth: 2,
-          children: [
-            '',
-            'using-vue',
-          ]
-        }
-      ],
       '/docs/': [
         {
           title: 'Docs',
@@ -105,12 +94,15 @@ module.exports = {
           sidebarDepth: 2,
           children: [
             '',
-            'EPI SUB EXD Global Analytics',
-            'ESP analytics - Peregino Brazil',
-            'GOC - data driven well placement',
-            'H2S reservoir sounding',
-            'MMP - natural gas trading prediction',
-            'Mud gas - real time fluid idntification'
+      ],
+      '/contact-us/': [
+        {
+          title: '',
+          collapsable: false,
+          sidebarDepth: 2,
+          children: [
+            '',
+            'contact-us',
           ]
         }
       ],
