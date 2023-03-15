@@ -94,6 +94,14 @@ module.exports = {
           sidebarDepth: 2,
           children: [
             '',
+            'epi_sub_exd_global_analytics',
+            'esp-analytics-peregino-brazil',
+            'goc-data_driven_well_placement',
+            'h2s_reservoir_sounding',
+            'mmp-natural_gas_trading_prediction',
+            'mud_gas-real_time_fluid_identification'
+          ]
+        },
       ],
       '/contact-us/': [
         {
