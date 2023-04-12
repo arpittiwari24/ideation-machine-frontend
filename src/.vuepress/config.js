@@ -41,7 +41,7 @@ module.exports = {
       },
       {
         text: 'Get started',
-        link: ''
+        link: 'get-started/'
       },
       {
         text: 'About us',
@@ -49,7 +49,7 @@ module.exports = {
       },
       {
         text: 'Contact us',
-        link: ''
+        link: 'contact/'
       },
       {
         text: 'Use cases',
