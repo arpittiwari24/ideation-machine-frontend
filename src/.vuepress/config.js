@@ -48,26 +48,19 @@ module.exports = {
         link: ''
       },
       {
-        text: 'Contact us',
-        link: 'contact/'
+        text: 'Environments',
+        link: '/environments/'
       },
       {
         text: 'Use cases',
-        link: 'use-cases/'
-      }
+        link: '/use-cases/'
+      },
+      {
+        text: 'Contact us',
+        link: '/contact-us/'
+      },
     ],
     sidebar: {
-      '/guide/': [
-        {
-          title: 'Guide',
-          collapsable: false,
-          sidebarDepth: 2,
-          children: [
-            '',
-            'using-vue',
-          ]
-        }
-      ],
       '/docs/': [
         {
           title: 'Docs',
@@ -82,6 +75,21 @@ module.exports = {
           ]
         }
       ],
+      '/environments/': [
+        {
+          title: 'Environments',
+          collapsable: false,
+          sidebarDepth: 2,
+          children: [
+            '',
+            'geo-operation-center',
+            'subsurface-analytics',
+            'tdi-og',
+            'epi-brazil',
+            'gulf-of-mexico'
+          ]
+        }
+      ],
       '/use-cases/': [
         {
           title: 'Use Cases',
@@ -89,12 +97,22 @@ module.exports = {
           sidebarDepth: 2,
           children: [
             '',
-            'EPI SUB EXD Global Analytics',
-            'ESP analytics - Peregino Brazil',
-            'GOC - data driven well placement',
-            'H2S reservoir sounding',
-            'MMP - natural gas trading prediction',
-            'Mud gas - real time fluid idntification'
+            'epi_sub_exd_global_analytics',
+            'esp-analytics-peregino-brazil',
+            'goc-data_driven_well_placement',
+            'h2s_reservoir_sounding',
+            'mmp-natural_gas_trading_prediction',
+            'mud_gas-real_time_fluid_identification'
+          ]
+        },
+      ],
+      '/contact-us/': [
+        {
+          title: ' ',
+          collapsable: false,
+          sidebarDepth: 1,
+          children: [
+            ''
           ]
         }
       ],
