@@ -1,4 +1,13 @@
 # GOC - data driven well placement
+
+| Business Area 	| Data                                                      	| Business problem                                                    	| ML approach                                                                        	| Results                                                	|
+|---------------	|-----------------------------------------------------------	|---------------------------------------------------------------------	|------------------------------------------------------------------------------------	|--------------------------------------------------------	|
+| GOC           	| Logging data acquired during drilling of production wells 	| Sensors providing logging data with a delay  for real time drilling 	| Supervised ML utilizing SparkBeyod that predicts log information at  drilling bit  	| Model predictions are uploaded in real-time to Sitecom 	|
+
+
+
+--------------------------
+
 ![](../assets/EPI-SUB/well-placemenet-troll.png)
 
 Mature fields are characterized by large amount of logging data acquired during drilling of production wells (Real Time Drilling Data). These logging measurements are used by drilling operators to make geosteering decisions, ensuring optimal well placement and maximizing economic production.

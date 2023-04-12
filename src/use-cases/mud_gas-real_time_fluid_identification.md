@@ -1,5 +1,11 @@
 # Mud gas - real time fluid idntification
 
+| Business Area 	| Data              	| Business problem               	| ML approach     	| Results                                                            	|
+|---------------	|-------------------	|--------------------------------	|-----------------	|--------------------------------------------------------------------	|
+| R&T           	| Advanced mud data 	| Real-time fluid identification 	| Supervised ML   	| Algorithm coded as a software plugin o Techlog, Geolog and Sitecom 	|
+
+--------------------
+
 R&T advanced mud gas team, led by industry leading researcher Dr Tao Yang, has been a great champion of implementing SparkBeyond technology in Equinor.
 
 ![](../assets/EPI-SUB/mud-gas.jpg)

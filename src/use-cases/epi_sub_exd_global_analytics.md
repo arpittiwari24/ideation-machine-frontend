@@ -1,4 +1,9 @@
 # EPI SUB EXD Global Analytics
+| Business Area 	| Data               	| Business problem                                                                                               	| ML approach                         	| Results                                  	|
+|---------------	|--------------------	|----------------------------------------------------------------------------------------------------------------	|-------------------------------------	|------------------------------------------	|
+| EPI SUB EXD   	| Petrophysical logs 	| Log enhancment by:<br>1. Replacing bad or missing sections<br>2. Predicting useful properties such as porosity 	| Supervised ML utilizing SparkBeyond 	| Outperform existing empirical approaches 	|
+
+-------------------------
 
 ## Exploration interest in SparkBeyond
 

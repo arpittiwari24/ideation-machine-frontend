@@ -37,11 +37,11 @@ module.exports = {
 
       {
         text: 'Docs',
-        link: 'docs/'
+        link: '/docs/'
       },
       {
         text: 'Get started',
-        link: ''
+        link: '/get-started/'
       },
       {
         text: 'About us',
@@ -65,7 +65,7 @@ module.exports = {
         {
           title: 'Docs',
           collapsable: false,
-          sidebarDepth: 2,
+          sidebarDepth: 1,
           children: [
             '',
             'disaster-recovery/',
@@ -79,7 +79,7 @@ module.exports = {
         {
           title: 'Environments',
           collapsable: false,
-          sidebarDepth: 2,
+          sidebarDepth: 1,
           children: [
             '',
             'geo-operation-center',
@@ -94,7 +94,7 @@ module.exports = {
         {
           title: 'Use Cases',
           collapsable: false,
-          sidebarDepth: 2,
+          sidebarDepth: 1,
           children: [
             '',
             'epi_sub_exd_global_analytics',
