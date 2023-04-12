@@ -6,6 +6,8 @@
 
 ### Contact information
 
+* Tao Yang <tay@equinor.com>
+
 Slack channel: [#ideation-machine-tdi-og](https://equinor.slack.com/archives/C04DJVBHG2C)
 
 <SlackNote/>

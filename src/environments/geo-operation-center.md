@@ -5,6 +5,8 @@
 
 ### Contact information
 
+* Isabella Masiero <ISAM@equinor.com>
+
 Slack channel: [#ideation-machine-goc](https://equinor.slack.com/archives/C045CKSRSHH)
 
 <SlackNote/>
